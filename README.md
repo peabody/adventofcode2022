@@ -1,6 +1,6 @@
 # Peabody's Advent of Code 2022 solutions
 
-This is my collection of advent of code solutions and corresponding puzzle files.
+This is my collection of [Advent of Code](https://adventofcode.com) solutions and corresponding puzzle files.
 
 I did everything in Python.
 
@@ -10,6 +10,6 @@ I don't promise that any of this stuff works or that it would be good code to re
 
 Conventions:
 
-ax-y.py - Solution for day x part y.
-px.txt - Puzzle file for day x
-px-ex.txt - Example puzzle file from problem text for testing
+* ax-y.py - Solution for day x part y.
+* px.txt - Puzzle file for day x
+* px-ex.txt - Example puzzle file from problem text for testing
